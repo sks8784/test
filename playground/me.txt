@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shubham Kumar Sinha
-Skills: HTML, CSS, JS, React, Redux, Node.js, Express.js, MongoDB, MySQL
-Email: test@gmail.com
-{{/user}}
